@@ -2,8 +2,7 @@
 
 Version: 1.0.0 [BETA]
 
-Description: Web Browser Writed in Python, Now not available to install because im not finished writing code. 
-
+Description: Web Browser that I wrote in Python, available but its 72% finished
 Thanks for reading!
 
-by NoNEDeVI :P
+by redblueek :P
